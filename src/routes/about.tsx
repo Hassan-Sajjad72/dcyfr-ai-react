@@ -4,7 +4,7 @@
 export function AboutPage() {
   return (
     <div className="max-w-3xl mx-auto space-y-8">
-      <h1 className="text-3xl font-bold tracking-tight">About This Template</h1>
+      <h1 className="text-3xl font-bold tracking-tight">About This Template-redeploy test</h1>
 
       <div className="prose">
         <p className="text-muted-foreground leading-relaxed">
